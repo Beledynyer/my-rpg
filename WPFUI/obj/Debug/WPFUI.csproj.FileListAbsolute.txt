@@ -1,0 +1,17 @@
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\bin\Debug\WPFUI.exe.config
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\bin\Debug\WPFUI.exe
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\bin\Debug\WPFUI.pdb
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\obj\Debug\WPFUI.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\obj\Debug\MainWindow.g.cs
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\obj\Debug\App.g.cs
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\obj\Debug\MainWindow.baml
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\obj\Debug\WPFUI.g.resources
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\obj\Debug\WPFUI.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\obj\Debug\WPFUI.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\obj\Debug\WPFUI.exe
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\obj\Debug\WPFUI.pdb
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\bin\Debug\Engine.dll
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\bin\Debug\Engine.pdb
+C:\Users\alvar\OneDrive\Documents\Alvaro\Programming\RPG Game\WPFUI\obj\Debug\WPFUI.csproj.Up2Date
